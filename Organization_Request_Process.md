@@ -9,6 +9,8 @@ Your URL will be: https://github.com/{Name}
 Owners - specify github usernames (existing)
 "Invite members who will need full administrative rights to the organization. {administrator adding the org} is automatically an owner."
 
+Specify existing group to sync for UNCG members? Grouper group
+
 AFTER CREATION:
 
 Org Display Name
