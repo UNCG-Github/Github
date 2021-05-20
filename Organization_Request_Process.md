@@ -11,6 +11,15 @@ Owners - specify github usernames (existing)
 
 Specify existing group to sync for UNCG members? Grouper group
 
+
+TERMS OF SERVICE TO PRESENT
+ - owner/champion agreement/terms
+ - cost if non-compliance
+ - support expectations
+ - Will be adding owners to repo / google group, expectations on quarterly meetings / training etc
+ - ... ?
+ - 
+
 AFTER CREATION:
 
 Org Display Name
