@@ -8,9 +8,13 @@ GitHub is a service for collaborating on software and documentation projects. It
 
 Github provides free services to anyone on the internet, meaning UNCG faculty, staff, and students can access public projects directly not through UNCG if they choose. However, Git projects that are part of Github @ UNCG are subject to additional security and access controls.
 
+Github for UNCG is provided at no cost, as long as requirements are met by each organization and their "champion. See below for more information about orgs and champions.
+
 ## Github Organizations
 
 Github @ UNCG is split into multiple "Organizations." Organizations are distinct shared areas where groups can collaborate across many projects at once. Organization administrators can manage member access to their org's data and projects, without having to coordinate with a central Github Administrator.
+
+All Organizations must have at least one designated owner commonly referred to as their "github champion." Champions are responsible for their organization, and are required to attend training or other mandated events as part of the Github service. 
 
 UNCG faculty, staff, and students can request an organization by ...
 
