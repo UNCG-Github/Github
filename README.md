@@ -27,4 +27,17 @@ You can interact with github within a web browser, or via another machine with G
  - Mac - https://git-scm.com/download/mac
  - Linux - https://www.git-scm.com/download/linux
 
+## Support
+
+Support is provided by Github @ UNCG for the following topics:
+ - Access & Authentication
+ - Organization Creation / Management
+
+Support requests related to the following topics will be directed to Github's documentation
+ - General repository or project usage & configuration
+ - General git usage (push, pull, clone, pull requests, rebasing, branching, tagging etc)
+ - Github "actions"
+ - General errors
+
+
 ...
