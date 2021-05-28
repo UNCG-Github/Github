@@ -20,12 +20,14 @@ UNCG faculty, staff, and students can request an organization by ...
 
 ## Access
 
-UNCG faculty, staff and students can access github using their iSpartan username and password.
+UNCG faculty, staff and students can access github using their iSpartan username and password. 
+
+Two Factor Authentication (2FA) is required for Github @ UNCG accounts. Information on [configuring your account for 2FA is available here](https://docs.github.com/en/github/authenticating-to-github/securing-your-account-with-two-factor-authentication-2fa).
 
 You can interact with github within a web browser, or via another machine with Git software installed. If Git is not already installed, download it from one of the following locations, depending on your operating system:
- - Windows - https://git-scm.com/download/win
- - Mac - https://git-scm.com/download/mac
- - Linux - https://www.git-scm.com/download/linux
+ - [Windows](https://git-scm.com/download/win)
+ - [Mac](https://git-scm.com/download/mac)
+ - [Linux](https://www.git-scm.com/download/linux)
 
 ## Support
 
