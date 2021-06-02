@@ -16,7 +16,11 @@ Github @ UNCG is split into multiple "Organizations." Organizations are distinct
 
 All Organizations must have at least one designated owner commonly referred to as their "github champion." Champions are responsible for their organization, and are required to attend training or other mandated events as part of the Github service. 
 
-UNCG faculty, staff, and students can request an organization by ...
+UNCG faculty, staff, and students can request an organization by:
+ 1. Create a new "Issue" for this repository.
+ 2. Use the Organization Request template provided
+ 3. Complete the template, filling in all sections to the best of your ability. 
+ 4. Submit the issue. A Github Administrator will respond to your issue with questions, or instructions
 
 ## Access
 
