@@ -7,19 +7,19 @@ assignees: ''
 
 ---
 
-By submitting this request, I certify that I have read the requirements for Organization ownership, and the associated documentation about the organization request process.
+_By submitting this request, I certify that I have read the requirements for Organization ownership, and the associated documentation about the organization request process._
 
-### Organization Name:
-{replace with org name}
+### ORGANIZATION NAME:
+_{replace with org name}_
 
-### Organization Owner Email Address(es)
-{replace with one or more valid UNCG email addresses}
+### OWNER EMAIL ADDRESS(ES)
+_{replace with one or more valid UNCG email addresses}_
 
-### Organization Billing Contact Email Address(es)
-{replace with one or more valid UNCG email addresses}
+### BILLING CONTACT EMAIL ADDRESS(ES)
+_{replace with one or more valid UNCG email addresses}_
 
-### Purpose for organization: 
-{replace with description about what the organization will be used for}
+### PURPOSE OF ORGANIZATION
+_{replace with description about what the organization will be used for}_
 
-### Additional Information to support your request:
-{replace with optional additional info}
+### ADDITIONAL DETAILS
+_{replace with optional additional info to support your request}_
