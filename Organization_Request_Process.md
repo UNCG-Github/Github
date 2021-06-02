@@ -1,38 +1,18 @@
-ORG Request Process (Draft)
+## ORG Request Process
 
-Need:
+### ORG REQUEST PREREQUISITES
 
-Org Name
-This will be the name of your account on GitHub.
-Your URL will be: https://github.com/{Name}
+ - [ ] Valid Org Name (will be used to generate your org URL -- Your URL will be: https://github.com/{Name}
+ - [ ] One or more Org Owner - UNCG Email Address
+ - [ ] Billing Contact - UNCG Email Address
+ - [ ] Description of Organization purpose (why you need a github organization)
 
-Owners - specify github usernames (existing)
-"Invite members who will need full administrative rights to the organization. {administrator adding the org} is automatically an owner."
+### ORG OWNER REQUIREMENTS & EXPECTATIONS
+ - [ ] All orgs must have an active UNCG owner
+ - [ ] Responsible for configuration of their organization
+ - [ ] Will be added to a google group / mailing list for announcements & information about the service
+ - [ ] Responsible for supporting the projects and users within their organization
+ - [ ] Must attend github training (requirement from github to keep the service free)
 
-Specify existing group to sync for UNCG members? Grouper group
-
-
-TERMS OF SERVICE TO PRESENT
- - owner/champion agreement/terms
- - cost if non-compliance
- - support expectations
- - Will be adding owners to repo / google group, expectations on quarterly meetings / training etc
- - ... ?
- - 
-
-AFTER CREATION:
-
-Org Display Name
-Description of Org
-URL
-Billing Email Address
-Location
-Twitter
-Picture/Avatar
-
-POLICY CHOICES
-(Ref other doc for now for choices based on what we set at the Enterprise Level)
-
-.....
-
-https://lucid.app/documents/view/988201e8-512e-47ba-b4b1-3ea54fb07e6d
+### FAILURE TO COMPLY
+ - [ ] Organization may be removed / deleted
