@@ -28,6 +28,7 @@ You can interact with github within a web browser, or via another machine with G
  - [Windows](https://git-scm.com/download/win)
  - [Mac](https://git-scm.com/download/mac)
  - [Linux](https://www.git-scm.com/download/linux)
+ - [Git Desktop](https://desktop.github.com)
 
 ## Support
 
