@@ -1,5 +1,10 @@
 # GitHub @ UNCG
 
+STATUS UPDATE: June 3rd, 2021: 
+ - Github @ UNCG is in the process of being configured and is NOT ready for users quite yet.
+ - Github admins expect the service to be ready for launch in August 2021
+ - For questions in the meantime, please contact Nick Young - nickyoung@uncg.edu
+
 ## Overview
 
 GitHub is a service for collaborating on software and documentation projects. It provides version control, issue tracking, and wiki space for hosted projects. GitHub uses Git, a distributed version control system used in the Linux kernel, the Android mobile platform, and other projects.
