@@ -9,7 +9,9 @@ In order to access an "Internal" or "Private" repository, users must:
  - [ ] Have an active Github account with 2FA enabled AND 
  - [ ] Be invited to a Github @ UNCG repository, organization or project
 
-Here's a basic overview of how the process will work for most people:
+## Inviting UNCG Users to an Organization or Repository
+
+Here's a basic overview of how the process will work for most people at UNCG:
 
 1. Sally Student already has a github account that she set up for herself a while ago, but Frank Faculty does not have a Github account at all.
 2. Regina, who owns a UNCG Git repository wants to work with Sally and Frank, so Regina invites them via their UNCG email addresses
