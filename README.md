@@ -13,11 +13,13 @@ Github provides free services to anyone on the internet, meaning UNCG faculty, s
 
 UNCG provides an enterprise version of GitHub hosted in the cloud and is available for use by students, faculty, staff, and their outside collaborators. The Github service is provided at no cost, as long as requirements are met by each organization owner. There are potential costs involved if an organization permits "[Github Actions](https://docs.github.com/en/actions)" but this can be discussed with Github Administrators before [Actions](https://docs.github.com/en/actions) are enabled.
 
-## Access to Github
+## Accessing Github @ UNCG
 
-UNCG faculty, staff and students can access github using their iSpartan username and password. 
+Organization or repository owners can invite any UNCG faculty, staff and students using their UNCG email address. Invited people then then access github using their iSpartan username and password. 
 
 Two Factor Authentication (2FA) is required for Github @ UNCG accounts. Information on [configuring your account for 2FA is available here](https://docs.github.com/en/github/authenticating-to-github/securing-your-account-with-two-factor-authentication-2fa).
+
+[See here for full instructions about how to access Github @ UNCG for both UNCG and non-UNCG users](Access/Accessing_Github.md).
 
 #### Collaboration outside UNCG
 
