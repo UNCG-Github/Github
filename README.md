@@ -15,7 +15,7 @@ UNCG provides an enterprise version of GitHub hosted in the cloud and is availab
 
 ## Accessing Github @ UNCG
 
-[See here for full instructions about how to access Github @ UNCG for both UNCG and non-UNCG users](Access/Accessing_Github.md).
+[See here for full instructions about how to access Github @ UNCG for both UNCG and non-UNCG users](Access).
 
 Organization or repository owners can invite any UNCG faculty, staff and students using their UNCG email address. Invited people then then access github using their iSpartan username and password. Outside (non-UNCG) collaborators are also permitted on an Organization-by-Organization basis.
 
