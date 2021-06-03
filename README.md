@@ -36,13 +36,10 @@ Support is provided by Github @ UNCG administrators for the following topics:
  - Access & Authentication
  - Organization Creation
  
-Support requests related to the following topics will be directed to [Github's documentation](https://docs.github.com):
- - Organization Policies & Configuration- 
+Support requests related to the following topics are handled by each Org Owner, or will be directed to [Github's documentation](https://docs.github.com):
+ - Organization Policies & Configuration
  - General repository or project usage & configuration
  - General git usage (installation, push, pull, clone, pull requests, rebasing, branching, tagging etc)
  - Github "actions"
  - Git errors
  - Other miscellaneous issues
-
-
-...
