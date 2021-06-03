@@ -15,15 +15,11 @@ UNCG provides an enterprise version of GitHub hosted in the cloud and is availab
 
 ## Accessing Github @ UNCG
 
-Organization or repository owners can invite any UNCG faculty, staff and students using their UNCG email address. Invited people then then access github using their iSpartan username and password. 
-
-Two Factor Authentication (2FA) is required for Github @ UNCG accounts. Information on [configuring your account for 2FA is available here](https://docs.github.com/en/github/authenticating-to-github/securing-your-account-with-two-factor-authentication-2fa).
-
 [See here for full instructions about how to access Github @ UNCG for both UNCG and non-UNCG users](Access/Accessing_Github.md).
 
-#### Collaboration outside UNCG
+Organization or repository owners can invite any UNCG faculty, staff and students using their UNCG email address. Invited people then then access github using their iSpartan username and password. Outside (non-UNCG) collaborators are also permitted on an Organization-by-Organization basis.
 
-Organization, project, and repository owners can collaborate with people outside UNCG, using the "[Outside Collaborator](https://docs.github.com/en/organizations/managing-access-to-your-organizations-repositories/adding-outside-collaborators-to-repositories-in-your-organization)" feature of Github. [Outside Collaborators](https://docs.github.com/en/organizations/managing-access-to-your-organizations-repositories/adding-outside-collaborators-to-repositories-in-your-organization) will be required to have Github [2FA enabled](https://docs.github.com/en/github/authenticating-to-github/securing-your-account-with-two-factor-authentication-2fa) on their account, but will not need to login using an iSpartan username/password.
+Two Factor Authentication (2FA) is required for anyone accessing Github @ UNCG accounts resources. Information on [configuring your account for 2FA is available here](https://docs.github.com/en/github/authenticating-to-github/securing-your-account-with-two-factor-authentication-2fa).
 
 #### Git software
 You can interact with github within a web browser, or via another machine with Git software installed. If Git is not already installed, download it from one of the following locations, depending on your operating system:
