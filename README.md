@@ -28,24 +28,18 @@ Github @ UNCG is split into multiple "Organizations." Organizations are distinct
 
 All Organizations must have at least one designated owner. Owners are responsible for their organization, and are required to attend training or other mandated events as part of the Github service. Organizations that do not have an active UNCG owner, may be scheduled for removal/deletion.
 
-### Requesting an Organization
-
-UNCG faculty and staff can submit a request for an organization by following these steps:
- 1. [Create a new Issue](https://github.com/UNCG-Github/Github/issues/new/choose) for this repository.
- 2. Use the [UNCG Github Organization Request template](https://github.com/UNCG-Github/Github/issues/new?assignees=&labels=Organization+Request&template=uncg-github-organization-request.md&title=%5BORG-REQUEST%5D) provided
- 3. Complete the template, filling in all sections to the best of your ability. 
- 4. Submit the issue. 
- 5. A Github Administrator will respond to your issue with questions, or approval and instructions on how to get started.
+[Click here for the the detailed Organization Request Process](/Organizations/Organization_Request_Process.md). 
 
 ## Support
 
 Support is provided by Github @ UNCG administrators for the following topics:
  - Access & Authentication
  - Organization Creation
- - Default Organization Policies & Configuration
-
+ 
 Support requests related to the following topics will be directed to [Github's documentation](https://docs.github.com):
+ - Organization Policies & Configuration- 
  - General repository or project usage & configuration
+ - 
  - General git usage (installation, push, pull, clone, pull requests, rebasing, branching, tagging etc)
  - Github "actions"
  - Git errors

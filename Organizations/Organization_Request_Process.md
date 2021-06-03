@@ -2,7 +2,9 @@
 
 ### Prerequisites
 
- - [ ] Valid Org Name (will be used to generate your org URL -- Your URL will be: https://github.com/{Name}
+ - [ ] Valid Org Name that complies with the [Naming Standard](/Organizations/Organization_Naming_Standard.md)
+    - Note: your Org Name will be used to generate your org URL
+    - IE: https://github.com/{Name}
  - [ ] One or more Org Owner - UNCG Email Address
  - [ ] Billing Contact - UNCG Email Address
  - [ ] Description of Organization purpose (why you need a github organization)
