@@ -15,11 +15,10 @@ UNCG provides an enterprise version of GitHub hosted in the cloud and is availab
 
 ## Accessing Github @ UNCG
 
-[See here for full instructions about how to access Github @ UNCG for both UNCG and non-UNCG users](Access).
-
 Organization or repository owners can invite any UNCG faculty, staff and students using their UNCG email address. Invited people then then access github using their iSpartan username and password. Outside (non-UNCG) collaborators are also permitted on an Organization-by-Organization basis.
 
-Two Factor Authentication (2FA) is required for anyone accessing Github @ UNCG accounts resources. Information on [configuring your account for 2FA is available here](https://docs.github.com/en/github/authenticating-to-github/securing-your-account-with-two-factor-authentication-2fa).
+[Click here for full instructions about how to access Github @ UNCG for both UNCG and non-UNCG users](Access).
+
 
 #### Git software
 You can interact with github within a web browser, or via another machine with Git software installed. If Git is not already installed, download it from one of the following locations, depending on your operating system:
