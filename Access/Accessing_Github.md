@@ -20,10 +20,14 @@ Here's a basic overview of how the process will work for most people:
 
 ## Outside Collaborators
 
-Outside Collaborators are users who have permissions to a Github @ UNCG repository, but are not UNCG account holders (ie: do not have an active iSpartan account). 
+Organization, project, and repository owners can collaborate with people outside UNCG, using the "[Outside Collaborator](https://docs.github.com/en/organizations/managing-access-to-your-organizations-repositories/adding-outside-collaborators-to-repositories-in-your-organization)" feature of Github. [Outside Collaborators](https://docs.github.com/en/organizations/managing-access-to-your-organizations-repositories/adding-outside-collaborators-to-repositories-in-your-organization) will be required to have Github [2FA enabled](https://docs.github.com/en/github/authenticating-to-github/securing-your-account-with-two-factor-authentication-2fa) on their account, but will not need to login using an iSpartan username/password.
+
 In order to access a Github @ UNCG repository as an outside collaborator, the outside person must:
  - [ ] Have an active Github account with 2FA enabled AND 
  - [ ] Be invited to a Github @ UNCG repository, organization or project AND
  - [ ] Be listed by the repository or organization owner as an outside collaborator
 
 [Read more about outside collaborators here](https://docs.github.com/en/organizations/managing-access-to-your-organizations-repositories/adding-outside-collaborators-to-repositories-in-your-organization).
+
+
+
