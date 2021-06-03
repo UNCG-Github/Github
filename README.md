@@ -14,6 +14,11 @@ UNCG faculty, staff and students can access github using their iSpartan username
 
 Two Factor Authentication (2FA) is required for Github @ UNCG accounts. Information on [configuring your account for 2FA is available here](https://docs.github.com/en/github/authenticating-to-github/securing-your-account-with-two-factor-authentication-2fa).
 
+#### Collaboration outside UNCG
+
+Organization, project, and repository owners can collaborate with people outside UNCG, using the "[Outside Collaborator](https://docs.github.com/en/organizations/managing-access-to-your-organizations-repositories/adding-outside-collaborators-to-repositories-in-your-organization)" feature of Github. [Outside Collaborators](https://docs.github.com/en/organizations/managing-access-to-your-organizations-repositories/adding-outside-collaborators-to-repositories-in-your-organization) will be required to have Github [2FA enabled](https://docs.github.com/en/github/authenticating-to-github/securing-your-account-with-two-factor-authentication-2fa) on their account, but will not need to login using an iSpartan username/password.
+
+#### Git software
 You can interact with github within a web browser, or via another machine with Git software installed. If Git is not already installed, download it from one of the following locations, depending on your operating system:
  - [Windows](https://git-scm.com/download/win)
  - [Mac](https://git-scm.com/download/mac)
@@ -27,10 +32,6 @@ Github @ UNCG is split into multiple "Organizations." Organizations are distinct
 All Organizations must have at least one designated owner. Owners are responsible for their organization, and are required to attend training or other mandated events as part of the Github service. Organizations that do not have an active UNCG owner, may be scheduled for removal/deletion.
 
 [Click here for the the detailed Organization Request Process](/Organizations/Organization_Request_Process.md). 
-
-## Collaboration outside UNCG
-
-Organization, project, and repository owners can collaborate with people outside UNCG, using the "[Outside Collaborator](https://docs.github.com/en/organizations/managing-access-to-your-organizations-repositories/adding-outside-collaborators-to-repositories-in-your-organization)" feature of Github. [Outside Collaborators](https://docs.github.com/en/organizations/managing-access-to-your-organizations-repositories/adding-outside-collaborators-to-repositories-in-your-organization) will be required to have Github [2FA enabled](https://docs.github.com/en/github/authenticating-to-github/securing-your-account-with-two-factor-authentication-2fa) on their account, but will not need to login using an iSpartan username/password.
 
 ## Data Classification
 
