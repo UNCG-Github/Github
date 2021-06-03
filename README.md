@@ -3,7 +3,7 @@
 STATUS UPDATE: June 3rd, 2021: 
  - Github @ UNCG is in the process of being configured and is NOT ready for users quite yet.
  - Github admins expect the service to be ready for launch in August 2021
- - For questions in the meantime, please contact Nick Young - nickyoung@uncg.edu
+ - For questions in the meantime, please email [github-admins-g@uncg.edu](mailto:github-admins-g@uncg.edu)
 
 ## Overview
 
