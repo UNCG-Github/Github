@@ -11,14 +11,13 @@ GitHub is a service for collaborating on software and documentation projects. It
 
 Github provides free services to anyone on the internet, meaning UNCG faculty, staff, and students can access public projects directly (not through UNCG) if they choose. However, Git projects that are part of the Github @ UNCG enterprise service are subject to additional security and access controls.
 
-UNCG provides an enterprise version of GitHub hosted in the cloud and is available for use by students, faculty, staff, and their outside collaborators. The Github service is provided at no cost, as long as requirements are met by each organization owner. There are potential costs involved if an organization permits "[Github Actions](https://docs.github.com/en/actions)" but this can be discussed with Github Administrators before [Actions](https://docs.github.com/en/actions) are enabled.
+UNCG provides an enterprise version of GitHub hosted in the cloud that is available for use by students, faculty, staff, and their outside collaborators. The Github service is provided at no cost, as long as requirements are met by each organization owner. There are potential costs involved if an ownner requests and then permits "[Github Actions](Actions)" for their organization, but this can be discussed with Github Administrators before [Actions](Actions) are enabled.
 
 ## Accessing Github @ UNCG
 
 Organization or repository owners can invite any UNCG faculty, staff and students using their UNCG email address. Invited people then then access github using their iSpartan username and password. Outside (non-UNCG) collaborators are also permitted on an Organization-by-Organization basis.
 
 [Click here for full instructions about how to access Github @ UNCG for both UNCG and non-UNCG users](Access).
-
 
 #### Git software
 You can interact with github within a web browser, or via another machine with Git software installed. If Git is not already installed, download it from one of the following locations, depending on your operating system:
