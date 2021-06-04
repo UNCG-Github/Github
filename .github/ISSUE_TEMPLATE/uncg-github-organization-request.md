@@ -19,8 +19,9 @@ _{ Department-Related or Student-Owned}_
 ### ORGANIZATION NAME:
 _{replace with org name}_
 
-### OWNER EMAIL ADDRESS(ES)
-_{replace with one or more valid UNCG email addresses}_
+### OWNER EMAIL ADDRESSES
+_minimum of two org owners is required_
+_{replace with two or more valid UNCG email addresses}_
 
 ### PURPOSE OF ORGANIZATION
 _{replace with description about what the organization will be used for}_
