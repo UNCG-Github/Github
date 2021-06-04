@@ -5,12 +5,12 @@
  - [ ] Valid Org Name that complies with the [Naming Standard](/Organizations/Organization_Naming_Standard.md)
     - Note: your Org Name will be used to generate your org URL
     - IE: https://github.com/{Name}
- - [ ] One or more Org Owner - UNCG Email Address
+ - [ ] Minimum of two (2) Org Owners - UNCG Email Addresses
  - [ ] Billing Contact - UNCG Email Address
  - [ ] Description of Organization purpose (why you need a github organization)
 
 ### Org Owner Requirements & Expectations
- - [ ] All orgs must have an active UNCG owner
+ - [ ] All orgs must have a minimum of two active UNCG owners (this helps prevent orphaned repositories)
  - [ ] Responsible for configuration of their organization
  - [ ] Will be added to a google group / mailing list for announcements & information about the service
  - [ ] Responsible for supporting the projects and users within their organization
