@@ -34,6 +34,9 @@ All Organizations must have at least one designated owner. Owners are responsibl
 
 [Click here for the the detailed Organization Request Process](/Organizations/Organization_Request_Process.md). 
 
+## Teans
+Teams may be set up inside Github @ UNCG. These can be ad-hoc managed in github, or sync'd with an existing UNCG Azure AD Group. [See here for more details](Teams).
+
 ## Data Classification
 
 Github should not be used to store passwords/secrets or other sensitive data. Organization owners will set the data classification guidance for their organization, based on discussion with the relevant data steward(s).
