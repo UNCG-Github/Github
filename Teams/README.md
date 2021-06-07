@@ -14,12 +14,5 @@ Information about setting up a team to be synchronized is [provided by Github he
 
 ## DON'T HAVE A UNCG AZURE AD GROUP YET?
 
-#### (A) The group/team only need to exist inside Github
-- If the group is only going to be used inside Github and no other services, you may contact UNCG Github Admins for assistance. 
-- Submit an "issue" and use the "team sync" template.
-- Administrators will review and help get things set up within 2-3 business days.
-
-#### (B) The group/team needs to integrate with Github AND other services
-If the group is going to be used to integrate with other services (Google Shared Drives, Google Groups, Canvas Organizations, MS Teams etc):
  - Contact ITS Identity Management through [6-TECH](http://6tech.uncg.edu) to get your group set up. 
  - After set up, the group(s) will appear in Github for you to select as a source for your team [per the instructions](https://docs.github.com/en/organizations/organizing-members-into-teams/synchronizing-a-team-with-an-identity-provider-group).
