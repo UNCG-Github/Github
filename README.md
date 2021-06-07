@@ -34,7 +34,7 @@ All Organizations must have at least one designated owner. Owners are responsibl
 
 [Click here for the the detailed Organization Request Process](/Organizations/Organization_Request_Process.md). 
 
-## Teans
+## Teams
 Teams may be set up inside Github @ UNCG. These can be ad-hoc managed in github, or sync'd with an existing UNCG Azure AD Group. [See here for more details](Teams).
 
 ## Data Classification
