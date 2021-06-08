@@ -14,5 +14,6 @@ Information about setting up a team to be synchronized is [provided by Github he
 
 ## DON'T HAVE A UNCG AZURE AD GROUP YET?
 
- - Contact ITS Identity Management through [6-TECH](http://6tech.uncg.edu) to get your group set up. 
- - After set up, the group(s) will appear in Github for you to select as a source for your team [per the instructions](https://docs.github.com/en/organizations/organizing-members-into-teams/synchronizing-a-team-with-an-identity-provider-group).
+ - Groups can be used to sync members into other services like Google Groups, Canvas Orgs etc, so the recommendation is to create a group for the distinct population you need to manage, and then you can use it with various services.
+ - Contact ITS Identity Management through [6-TECH](http://6tech.uncg.edu) to get your group(s) set up. 
+ - After set up (usually within 24 hours) the group(s) will appear in Github for you to select as a source for your team [per the instructions](https://docs.github.com/en/organizations/organizing-members-into-teams/synchronizing-a-team-with-an-identity-provider-group).
