@@ -17,3 +17,8 @@ Information about setting up a team to be synchronized is [provided by Github he
  - Groups can be used to sync members into other services like Google Groups, Canvas Orgs etc, so the recommendation is to create a group for the distinct population you need to manage, and then you can use it with various services.
  - Contact ITS Identity Management through [6-TECH](http://6tech.uncg.edu) to get your group(s) set up. 
  - After set up (usually within 24 hours) the group(s) will appear in Github for you to select as a source for your team [per the instructions](https://docs.github.com/en/organizations/organizing-members-into-teams/synchronizing-a-team-with-an-identity-provider-group).
+
+## ADDITIONAL INFORMATION / BEST PRACTICES
+
+- You should always set up synchronized teams before you add/invite members to your organization. This way, the member will be added to all appropriate teams very quickly after they accept the invite. On occasion, Github admins have noticed a need to remove and then re-invite existing organization members, in order for them to get synchronized (added) for the first time.
+
