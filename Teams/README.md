@@ -6,7 +6,7 @@
 
 Organization owners can set up teams that are managed directly inside of Github, or optionally the team can be kept in sync with a UNCG Azure AD group. 
 
-Administrators have already set up the [sync process](https://docs.github.com/en/organizations/managing-saml-single-sign-on-for-your-organization/managing-team-synchronization-for-your-organization), meaning for exsiting groups it's just a simple process of selecting it from a drop-down menu inside your Team Settings.
+Administrators have already set up the [sync process](https://docs.github.com/en/organizations/managing-saml-single-sign-on-for-your-organization/managing-team-synchronization-for-your-organization), meaning for existing groups it's just a simple process of selecting it from a drop-down menu inside your Team Settings. When people are added/removed via the sync process, automated emails are sent. Examples are included in this folder for reference.
 
 ## CONNECTING TO AN EXISTING UNCG AZURE AD GROUP
 
