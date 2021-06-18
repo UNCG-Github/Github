@@ -54,3 +54,7 @@ Support requests related to the following topics are handled by each Org Owner, 
  - Github "actions"
  - Git errors
  - Other miscellaneous issues
+
+## Frequently Asked Questions
+
+[View frequently asked questions here](FAQ)
