@@ -9,14 +9,6 @@
  - [ ] Billing Contact - UNCG Email Address
  - [ ] Description of Organization purpose (why you need a github organization)
 
-### Org Owner Requirements & Expectations
- - [ ] All orgs must have a minimum of two active UNCG owners (this helps prevent orphaned repositories)
- - [ ] Responsible for configuration of their organization
- - [ ] Will be added to a google group / mailing list for announcements & information about the service
- - [ ] Responsible for supporting the projects and users within their organization
- - [ ] Must attend github training and provide proof within 1 month of org creation. This is a requirement from github to keep the service free.
- - [ ] Failure to comply with the expectations may result in the owner's organization being deleted
-
 ## Request Process
 
 UNCG faculty and staff can submit a request for an organization by following these steps:
