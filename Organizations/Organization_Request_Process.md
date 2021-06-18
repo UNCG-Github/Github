@@ -9,7 +9,7 @@
  - [ ] Billing Contact - UNCG Email Address
  - [ ] Description of Organization purpose (why you need a github organization)
 
-## Github Organization Request Process
+## Process
 
 UNCG faculty and staff can submit a request for an organization by following these steps:
  1. [Create a new Issue](https://github.com/UNCG-Github/Github/issues/new/choose) for this repository
