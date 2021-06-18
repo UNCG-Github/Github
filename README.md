@@ -1,6 +1,6 @@
 # GitHub @ UNCG
 
-STATUS UPDATE: June 8th, 2021: 
+STATUS UPDATE: June 18th, 2021: 
  - Github @ UNCG is in the process of being configured and is NOT ready for users quite yet.
  - Github admins expect the service to be ready for launch in August 2021
  - For questions in the meantime, please email [github-admins-g@uncg.edu](mailto:github-admins-g@uncg.edu)
@@ -32,7 +32,7 @@ Github @ UNCG is split into multiple "Organizations." Organizations are distinct
 
 All Organizations must have at least one designated owner. Owners are responsible for their organization, and are required to attend training or other mandated events as part of the Github service. Organizations that do not have an active UNCG owner, may be scheduled for removal/deletion.
 
-[Click here for the the detailed Organization Request Process](/Organizations/Organization_Request_Process.md). 
+[Click here for the the detailed Organization Request Process](/Organizations). 
 
 ## Teams
 Teams may be set up inside Github @ UNCG. These can be ad-hoc managed in github, or sync'd with an existing UNCG Azure AD Group. [See here for more details](Teams).
