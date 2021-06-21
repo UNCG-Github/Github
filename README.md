@@ -46,8 +46,10 @@ Github should not be used to store passwords/secrets or other sensitive data. Or
 Support is provided by Github @ UNCG administrators for the following topics:
  - Access & Authentication
  - Organization Creation
- 
-Support requests related to the following topics are handled by each Org Owner, or will be directed to [Github's documentation](https://docs.github.com):
+
+Submit an Issue to this repository if you need help with those topics.
+
+For all other topics/issues, support is handled by each Organization Owner, or will be directed to [Github's documentation](https://docs.github.com):
  - Organization Policies & Configuration
  - General repository or project usage & configuration
  - General git usage (installation, push, pull, clone, pull requests, rebasing, branching, tagging etc)
