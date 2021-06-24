@@ -1,10 +1,5 @@
 # GitHub @ UNCG
 
-STATUS UPDATE: June 18th, 2021: 
- - Github @ UNCG is in the process of being configured and is NOT ready for users quite yet.
- - Github admins expect the service to be ready for launch in August 2021
- - For questions in the meantime, please email [github-admins-g@uncg.edu](mailto:github-admins-g@uncg.edu)
-
 ## Overview
 
 GitHub is a service for collaborating on software and documentation projects. It provides version control, issue tracking, and wiki space for hosted projects. GitHub uses Git, a distributed version control system used in the Linux kernel, the Android mobile platform, and other projects.
@@ -60,3 +55,6 @@ For all other topics/issues, support is handled by each Organization Owner, or w
 ## Frequently Asked Questions
 
 [View frequently asked questions here](FAQ)
+
+## Contact Information
+Submit an issue to this repository, or if you cannot submit an issue, email [github-admins-g@uncg.edu](mailto:github-admins-g@uncg.edu)
