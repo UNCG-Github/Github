@@ -28,7 +28,7 @@ You can interact with github within a web browser, or via another machine with G
 
 ## Github Organizations
 
-Github @ UNCG is split into multiple "Organizations." Organizations are distinct shared areas where groups can collaborate across many projects at once. Organization administrators can manage member access to their org's data and projects, without having to coordinate with a central Github Administrator.
+The [Github @ UNCG Enterprise](https://github.com/enterprises/unc-greensboro) is split into multiple "Organizations." Organizations are distinct shared areas where groups can collaborate across many projects at once. Organization administrators can manage member access to their org's data and projects, without having to coordinate with a central Github Administrator.
 
 All Organizations must have at least one designated owner. Owners are responsible for their organization, and are required to attend training or other mandated events as part of the Github service. Organizations that do not have an active UNCG owner, may be scheduled for removal/deletion.
 
