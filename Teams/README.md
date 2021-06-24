@@ -20,5 +20,7 @@ Information about setting up a team to be synchronized is [provided by Github he
 
 ## ADDITIONAL INFORMATION / BEST PRACTICES
 
+- Ensure users are using their primary iSpartan account email address for their github account, not an alias. A Github account that is using a UNCG alias as its email address may not be synchronized correctly. This is due to UNCG Azure looking for the primary username as the correct attribute to sync, and not the alias@uncg.edu format.
+
 - You should always set up synchronized teams before you add/invite members to your organization. This way, the member will be added to all appropriate teams very quickly after they accept the invite. On occasion, Github admins have noticed a need to remove and then re-invite existing organization members, in order for them to get synchronized (added) for the first time.
 
